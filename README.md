@@ -11,7 +11,7 @@
 
 <h2> About Me </h2>
 
-<img width="55%" align="right" alt="Github" src="https://user-images.githubusercontent.com/70063819/136364808-dadcd321-c025-4863-88c5-44ab35ce6048.png" />
+<img width="45%" align="right" alt="Github" src="https://user-images.githubusercontent.com/70063819/136364808-dadcd321-c025-4863-88c5-44ab35ce6048.png" />
 
 
 - 🔭 I’m currently working on My Blog, Github Project
