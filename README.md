@@ -11,7 +11,7 @@
 
 <h2> About Me </h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://user-images.githubusercontent.com/70063819/136364655-39bd9382-e61d-4426-a936-f69910d73bd7.png" />
 
 
 - 🔭 I’m currently working on My Blog, Github Project
