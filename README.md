@@ -1,5 +1,5 @@
 <div align="center">
-<img width="40%" height = "40%" src="https://user-images.githubusercontent.com/70063819/136363150-5da5448c-d673-45af-8b76-2a17dc4988e3.png" alt="main-illustration" />
+<img width="40%" height = "40%" src="https://cdn.discordapp.com/attachments/795563401014935604/988484045161771108/business-3d-happy-robot-assistant-waving-hello.png" alt="main-illustration" />
 </div>
 
 <h1> Heya! 👋 </h1>
@@ -22,7 +22,7 @@
 
 - 💬 Talk to me about Web development, entrepreneurship, JavaScript, freelancing projects, and opportunities.
 
-<h2> Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "32px"> </h2>
 <a href= https://github.com/justmrkhan?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/justmrkhan?tab=repositories&q=&type=&language=c&sort= ><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
 <a href= https://github.com/justmrkhan?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
