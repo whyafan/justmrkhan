@@ -2,7 +2,7 @@
 <img width="40%" height = "40%" src="https://user-images.githubusercontent.com/70063819/136363150-5da5448c-d673-45af-8b76-2a17dc4988e3.png" alt="main-illustration" />
 </div>
 
-<h1> Heya! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width='10px'> </h1>
+<h1> Heya! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "10px"> </h1>
 <p align='center'>
 </p>
 
