@@ -1,5 +1,5 @@
 <div align="center">
-<img width="40%" height = "40%" src="https://cdn.discordapp.com/attachments/795563401014935604/988484045161771108/business-3d-happy-robot-assistant-waving-hello.png" alt="main-illustration" />
+<img width="40%" height = "40%" src="https://cdn.discordapp.com/attachments/795563401014935604/988484045161771108/business-3d-happy-robot-assistant-waving-hello.png" alt="main-illustration" width="48" />
 </div>
 
 <h1> Heya! 👋 </h1>
