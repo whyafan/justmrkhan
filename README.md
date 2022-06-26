@@ -14,13 +14,13 @@
 <img width="45%" align="right" alt="Github" src="https://user-images.githubusercontent.com/70063819/136364808-dadcd321-c025-4863-88c5-44ab35ce6048.png" />
 
 
-- 🔭 I'm currently working on my companies (TheCluster & Velston), and GitHub projects.
+- 🔭 I'm currently working on my new venture and freelance projects. I was formally the CEO and Founder of TheCluter & Velston.
 
-- 🌱 I’m currently learning React, and pursuing computer science.
+- 🌱 I’m currently learning JS and pursuing a diploma in Computer Software Engineering at VPT.
 
-- 👯 I’m looking to collaborate on GitHub, and freelance projects.
+- 👯 I’m looking to collaborate on GitHub open-source, and freelance projects.
 
-- 💬 Talk to me about Web development, entrepreneurship, JavaScript, freelancing projects, and opportunities.
+- 💬 Talk to me about Web development, entrepreneurship, freelancing projects, and opportunities.
 
 <h2> Tech Stack <img width="3%" height = "3%" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"> </h2>
 <a href= https://github.com/justmrkhan?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
