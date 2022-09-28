@@ -5,7 +5,7 @@ I'm a front-end developer focused on building digital products and projects to s
 <p align="left">
       <a href="https://afankhan.com/">
          <img alt="youtube subscribers" title="Personal Website" src="https://custom-icon-badges.demolab.com/badge/-Personal%20Website-yellow?style=for-the-badge&logoColor=white&logo=people"/></a>
-      <a href="https://afankhan.com/portfolio">
+      <a href="https://afankhan.com/coming-soon.html">
          <img alt="youtube subscribers" title="Portfolio" src="https://custom-icon-badges.demolab.com/badge/-Portfolio-orange?style=for-the-badge&logoColor=white&logo=versions"/></a>
       <a href="https://afankhan.com/discord">
          <img alt="youtube subscribers" title="Discord" src="https://custom-icon-badges.demolab.com/badge/-Discord-blue?style=for-the-badge&logoColor=white&logo=discord"/></a>
