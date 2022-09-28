@@ -1,50 +1,38 @@
-<div align="center">
-<img width="20%" height = "20%" src="https://cdn.discordapp.com/attachments/795563401014935604/988484045161771108/business-3d-happy-robot-assistant-waving-hello.png" alt="main-illustration" />
-</div>
+# Hey, I'm Afan.
 
-#
+I'm a front-end developer focused on building digital products and projects to solve problems for the masses. I'm currently learning advanced JS. Besides that, I'm a UI/UX designer endeavouring to create easily accessible websites and services. I publish articles, notes, and other documents revolving around software development on platforms like Medium and Instagram.
 
-<h1> Heya! 👋 </h1>
-<p align='center'>
+<p align="left">
+      <a href="https://afankhan.com/">
+         <img alt="youtube subscribers" title="Personal Website" src="https://custom-icon-badges.demolab.com/badge/-Personal%20Website-yellow?style=for-the-badge&logoColor=white&logo=people"/></a>
+      <a href="https://afankhan.com/portfolio">
+         <img alt="youtube subscribers" title="Portfolio" src="https://custom-icon-badges.demolab.com/badge/-Portfolio-orange?style=for-the-badge&logoColor=white&logo=versions"/></a>
+      <a href="https://afankhan.com/portfolio">
+         <img alt="youtube subscribers" title="Discord" src="https://custom-icon-badges.demolab.com/badge/-Discord-blue?style=for-the-badge&logoColor=white&logo=discord"/></a>
+      <a href="https://afankhan.com/portfolio">
+         <img alt="youtube subscribers" title="Twitter" src="https://custom-icon-badges.demolab.com/badge/-Twitter-purple?style=for-the-badge&logoColor=white&logo=twitter"/></a>  
 </p>
 
-<div size='20px'> Hi! My name is Afan. Thank You for taking the precious time to view my GitHub Profile :smile: 
-</div>
+---
 
-<h2> About Me </h2>
+### 🧰 Languages and Tools
 
-<img width="45%" align="right" alt="Github" src="https://user-images.githubusercontent.com/70063819/136364808-dadcd321-c025-4863-88c5-44ab35ce6048.png" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" />
 
-
-- 🔭 I'm currently working on my new venture and freelance projects. I was formally the CEO and Founder of TheCluter & Velston.
-
-- 🌱 I’m currently learning JS and pursuing a diploma in Computer Software Engineering at VPT.
-
-- 👯 I’m looking to collaborate on GitHub open-source, and freelance projects.
-
-- 💬 Talk to me about Web development, entrepreneurship, freelancing projects, and opportunities.
-
-<h2> Tech Stack <img width="3%" height = "3%" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"> </h2>
-<a href= https://github.com/justmrkhan?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/justmrkhan?tab=repositories&q=&type=&language=c&sort= ><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href= https://github.com/justmrkhan?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/justmrkhan?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-
-
-<h2> Connect with me </h2>
-<a href = 'https://www.linkedin.com/in/khanafan'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/justmrkhan'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>
-<a href = 'https://afankhan.com'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://github.com/justmrkhan'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-  
 <br>
 <br>
-  <br>
+<br>
 
-| ![Afan's Stats](https://github-readme-stats.vercel.app/api?username=justmrkhan&show_icons=true&theme=tokyonight) | ![Afan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=justmrkhan&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justmrkhan&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=justmrkhan&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
-
+| ![Afan's Stats](https://github-readme-stats.vercel.app/api?username=justmrkhan&show_icons=true&theme=tokyonight) | ![Afan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=justmrkhan&theme=tokyonight)                                                                                                                  |
+| ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justmrkhan&theme=tokyonight)         | ![Github Stars](https://github-readme-stats.vercel.app/api?username=justmrkhan&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 <br>
