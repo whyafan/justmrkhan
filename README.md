@@ -1,5 +1,10 @@
 # Hey, I'm Afan.
 
+<p align="left">
+      <a href="https://afankhan.com/">
+         <img alt="youtube subscribers" title="Personal Website" src="https://cdn.discordapp.com/attachments/852801977499123712/1046824821905956894/Banner_Twitter.png"/></a>
+</p>
+
 I'm a front-end developer focused on building digital products and projects to solve problems for the masses. I'm currently learning advanced JS. Besides that, I'm a UI/UX designer endeavouring to create easily accessible websites and services. I publish articles, notes, and other documents revolving around software development on platforms like Medium and Instagram.
 
 <p align="left">
